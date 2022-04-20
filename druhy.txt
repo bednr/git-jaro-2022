@@ -9,3 +9,6 @@ commit 3
 =======
 oprava commityu 2
 >>>>>>> b3b6aebc4c60b1df8d9ef1f8f5385f6a2ce4dbd6
+
+
+posledni radek
