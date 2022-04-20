@@ -10,3 +10,5 @@ zde je druha funkce{
 tahle nic nedela
 }
 hkgdhgd
+
+posledni radek
