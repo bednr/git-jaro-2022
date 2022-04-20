@@ -1,4 +1,4 @@
-zmena prvniho radku
+prvni radek kodu
 totev
 je
 obsah
