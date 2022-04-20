@@ -1,4 +1,6 @@
-totev
+totef
+
+
 je
 obsah
 zmena kvuli novemu tokenu
