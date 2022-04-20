@@ -5,6 +5,6 @@ zmena kvuli novemu tokenu
 zde je nova funkce {
 do something
 }
-zde je duha funkce{
+zde je druha funkce{
 tahle nic nedela
 }
