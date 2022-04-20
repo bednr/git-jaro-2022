@@ -3,5 +3,9 @@ sdagus afoa vode apasragus
 treti radek
 nova vetev(druha)
 commit 1
+<<<<<<< HEAD
 commit 2
 commit 3
+=======
+oprava commityu 2
+>>>>>>> b3b6aebc4c60b1df8d9ef1f8f5385f6a2ce4dbd6
