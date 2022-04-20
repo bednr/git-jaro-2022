@@ -3,3 +3,4 @@ sdagus afoa vode apasragus
 treti radek
 nova vetev(druha)
 commit 1
+oprava commityu 2
