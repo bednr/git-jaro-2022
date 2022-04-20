@@ -2,3 +2,6 @@ tohle
 je
 obsah
 zmena kvuli novemu tokenu
+zde je nova funkce {
+do something
+}
