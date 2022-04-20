@@ -1,4 +1,4 @@
-tohle je treti vetev
+totev
 je
 obsah
 zmena kvuli novemu tokenu
